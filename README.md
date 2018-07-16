@@ -68,11 +68,5 @@ CVApi is automatically configured to understand the source of the images. If we 
 CVApi::make()->pyrDown(3)->results(function($image) { $image->save(); });
 ```
 
-## Documentation
-You can find detailed documentation in our website [CVApi](#)
-
-## Issues
-If you have encountered any security issues or unexpected crashes, please contant us at arianajdari23@gmail.com
-
 ## License
 This software is licensed under [MIT](https://opensource.org/licenses/MIT) License
