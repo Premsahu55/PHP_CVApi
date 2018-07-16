@@ -1,4 +1,4 @@
-<p align="center"><img alt="Our Logo" src="#"></p>
+<p align="center"><img alt="Our Logo" src="https://image.ibb.co/cvJwC6/CVApi_Logo2.png"></p>
 
 [![Packagist](https://img.shields.io/packagist/dt/cv-api/cv-api.svg)](https://packagist.org/packages/cv-api/cv-api)
 [![Packagist](https://img.shields.io/packagist/v/cv-api/cv-api.svg)](https://packagist.org/packages/cv-api/cv-api)
